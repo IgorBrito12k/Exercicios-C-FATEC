@@ -1,0 +1,9 @@
+Ordem da operações
+
+1° ( ) Parênteses do interno para o externo
+2° Funções matemáticas (exponenciação, radiciação, etc)
+3° *   /   mod
+4° +    -
+5° >     >=    <    <=    =    <>
+6° E OU NÃO
+7° Atribuição

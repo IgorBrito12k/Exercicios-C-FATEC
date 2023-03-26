@@ -1,0 +1,35 @@
+Visual G
+
+Var
+
+altura,saldo,notaProva,raio : real                        
+numFilhos                   : inteiro                       
+sexo                        : caractere                   
+nome1,nome2                 : caractere
+
+Const
+
+PI = 3,14
+marcador = x
+
+Linguagem C:
+
+float altura, saldo, notaProva, raio;
+int numFilhos;
+char sexo, nome1[40], nome2[50];
+
+const float PI = 3,14
+const char Marcador = 'x';
+
+-----------------------------------------------------------
+*Dar valor a variavel*
+
+Sintaxe linguagem C
+
+  Nome_Var           =              Valor
+identificador    Operador   Valor que será armazenado
+
+Exemplo:
+
+nomeAluno = "José Carlos"; ESTÁ ERRADO. Não irá funcionar
+strcpy(nomeAluno,"José Carlos") ESTÁ CORRETO. Funcionará

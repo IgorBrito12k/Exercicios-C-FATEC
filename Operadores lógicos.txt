@@ -1,0 +1,17 @@
+Operadores lógicos
+
+Algoritmo              Linguagem C           Função          Resultado
+                                                       
+                                                           Basta um operador ser FALSO
+    E                       &&              Conjunção      para que o resultado da expressão
+                                                           seja FALSO
+
+
+
+                                                          Basta um operando ser VERDADEIRO para
+    OU                      ||              Disjunção     que o resultado da expressão seja VERDADEIRA
+
+
+                                                          Inverte ou NEGA o valor do operando
+   NÃO                       !              Negação 
+                                           (Inversão)

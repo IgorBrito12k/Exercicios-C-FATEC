@@ -1,0 +1,17 @@
+Inicio do algoritmo
+
+1 - Mover disco 1 da haste A para haste C;
+
+2 – Mover disco 2 da haste A para haste B;
+
+3 – Mover disco 1 da haste C para haste B;
+
+4 – Mover disco 3 da haste A para haste C;
+
+5 – Mover disco 1 da haste B para haste A;
+
+6 – Mover disco 2 da haste B para haste C;
+
+7 – Mover disco 1 da haste A para haste C.
+
+Fim

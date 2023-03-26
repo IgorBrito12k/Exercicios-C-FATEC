@@ -1,0 +1,29 @@
+>  Usado para compara se o valor é maior que o outro
+Exemplo: 5>5
+
+Resultado da comparação: F
+
+>= Usado para comparar se um valor é maior ou igual a outro
+Exemplo:  5>=5
+
+Resultado da comparação: V
+
+< Usado para comparar se um valor é menor que outro
+Exemplo:  5<5
+
+Resultado da comparação: F
+
+<= Usado para comparar se um valor é menor ou igual a outro
+Exemplo: 5<=5
+
+Resultado da comparação: V
+
+= ou == Usado para comparar se um valor igual a outro
+Exemplo:  5=5
+
+Resultado da comparação: V
+
+<> ou != Usado para comparar se um valor é diferente de outro
+Exemplo 5<>5 
+
+Resultado da comparação: F

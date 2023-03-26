@@ -1,0 +1,22 @@
+1- Exercício identificadores válidos
+
+B) v2  F) nomeAluno  G)vyt  K)rua    L)cep  N)dia_Nasc
+
+2- Identifique o tipo primitivo das informações grifadas. Faça a declaração em algoritmo e Linguagem C.
+
+- Ana (string) 1,73m (Real)
+  floatNome;  floatAltura;
+
+- R$2734,57 (real)
+  floatSaldo;
+
+- X (Char)
+  floatCaractere;
+
+- Pedro (string)  2 filhos (Int)  menina e um menino (string)
+  floatNome;      floatFilhos;     floatSexo;
+
+- 7,75 - real
+
+- 2*PI*raio (int real real)
+  

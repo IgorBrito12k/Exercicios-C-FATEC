@@ -1,0 +1,12 @@
+%d - indica um número inteiro
+%f - indica um número real
+%c- indica um caracter
+%s- indica uma String
+
+Sintaxe - linguagem C
+
+printf("%d",x); // mostra o valor armazenado na variável X
+printf("BOM DIA"); // mostra a mensagem "BOM DIA"
+printf("Meu Nome é %s Nasci no ano %d", nome, anoNasc); // mostra a mensagem mais o valor armazenado na variável
+
+*Na linguagem C os comandos de entrada e saída de dados pertencem a biblioteca stdio.h
